@@ -4,5 +4,9 @@ package org.papb.fithealthy;
 Ini adalah halaman BMR
  */
 
-public class Bmr {
+
+import android.support.v7.app.AppCompatActivity;
+
+public class Bmr extends AppCompatActivity{
+
 }
