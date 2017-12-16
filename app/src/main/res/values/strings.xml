@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Fit&amp;Healthy</string>
+
+    <string-array name="makananPokok">
+        <item>Makanan Pokok</item>
+        <item>Nasi Putih</item>
+        <item>Jagung Rebus</item>
+        <item>Kentang Rebus</item>
+        <item>Mie Instant</item>
+        <item>Roti Tawar</item>
+    </string-array>
+    <string-array name="laukPauk">
+        <item>Lauk Pauk</item>
+        <item>Ayam Panggang</item>
+        <item>Ikan Teri</item>
+        <item>Telur Ayam Rebus</item>
+        <item>Telur Asin</item>
+        <item>Ikan Lele Goreng</item>
+        <item>Ikan Bandeng Goreng</item>
+        <item>Tempe Goreng</item>
+        <item>Tahu Goreng</item>
+    </string-array>
+    <string-array name="sayuran">
+        <item>Sayuran</item>
+        <item>Sop Bayam</item>
+        <item>Sayur Lodeh</item>
+        <item>Tumis Buncis</item>
+        <item>Sayur Asam</item>
+        <item>Tumis Daun Singkong</item>
+    </string-array>
 </resources>
