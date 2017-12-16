@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ActivityBMR"></activity>
+        <activity android:name=".Kalori"></activity>
     </application>
 
 </manifest>
